@@ -7,8 +7,7 @@
 }
 body>*:not(aside,section),
 aside>*,
-section>*,
-iframe
+section>*
 {
     border: 1px solid lightgray;
 }
